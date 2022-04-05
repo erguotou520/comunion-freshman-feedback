@@ -130,6 +130,13 @@ export default defineComponent({
         </p>
         <br />
         <p>
+          <strong>代码贡献规范</strong>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/511-comunion">Comunion 代码贡献规范</a>
+        </p>
+        <br />
+        <p>
           <strong>实践总结</strong>
         </p>
         <p>
