@@ -190,7 +190,7 @@ export default defineComponent({
           <a href="https://github.com/comunion-io/">Github（代码管理）</a>
         </p>
         <p>
-          <a href="https://dev.comunion.io/">产品测试地址</a>
+          <a href="https://d.comunion.io/">产品测试地址</a>
         </p>
         <br />
         <p>
@@ -214,10 +214,10 @@ export default defineComponent({
           <strong>组织地址：</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/">BBS</a>
+          <a href="https://talk.comunion.org/">BBS</a>
         </p>
         <p>
-          <a href="https://wiki.comunion.io/">Wiki</a>
+          <a href="https://docs.comunion.org/comunion-universal/">Wiki</a>
         </p>
         <div class="mt-4 text-right">
           <Button onClick={() => props.onDone?.()}>😀&nbsp;&nbsp;学习完成，进入考核</Button>
