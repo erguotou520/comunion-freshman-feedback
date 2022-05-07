@@ -97,38 +97,37 @@ export default defineComponent({
           <strong>理论介绍:</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/325-comunion-economics">网链经济学(Comunion Economics)</a>
+          <a href="https://talk.comunion.org/d/325-comunion-economics">网链经济学(Comunion Economics)</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/292-comunion-economic">网链经济白皮书</a>
+          <a href="https://talk.comunion.org/d/292-comunion-economic">网链经济白皮书</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/327">网链经济学的介绍与发展</a>
+          <a href="https://talk.comunion.org/d/327">网链经济学的介绍与发展</a>
         </p>
         <br />
         <p>
           <strong>Comunion三部曲：</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/167">用解构主义重塑未来商业与组织形式</a>
+          <a href="https://talk.comunion.org/d/167">用解构主义重塑未来商业与组织形式</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/169">网链组织模式的理论与应用</a>
+          <a href="https://talk.comunion.org/d/169">网链组织模式的理论与应用</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/168-uvu">全民价值流动计划(UVU)</a>
+          <a href="https://talk.comunion.org/d/168-uvu">全民价值流动计划(UVU)</a>
         </p>
         <br />
         <p>
           <strong>网链协作</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/182-2020-comunion">团队协作公约</a>
+          <a href="https://talk.comunion.org/d/182-2020-comunion">团队协作公约</a>
         </p>
         <p>
-          <a href="https://wiki.comunion.io/governance/comunance-wang-lian-zu-zhi-mo-shi">任务管理机制</a>
+          <a href="https://comunion.yuque.com/docs/share/288e7539-3892-4ed0-8092-caa474257ae6?#">Comunion Consensus 网链共识(2022）</a>
         </p>
-        <br />
         <p>
           <strong>代码规范</strong>
         </p>
@@ -140,43 +139,46 @@ export default defineComponent({
           <strong>实践总结</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/310-comunion-2020">Comunion 2020回顾与展望:进步、数字化与贫穷</a>
+          <a href="https://talk.comunion.org/d/465-comunion-2021-2022-26-comunion">Comunion 2021 回顾与展望】：2022 启动 26 号 Comunion 宇宙</a>
         </p>
         <p>
-          <a href="https://wiki.comunion.io/comunion-2019">Comunion 2019 实践总结</a>
+          <a href="https://talk.comunion.org/d/310-comunion-2020">Comunion 2020回顾与展望:进步、数字化与贫穷</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/340-comunion-2020">我的 Comunion 2020-钦佩</a>
+          <a href="https://talk.comunion.org/d/67-comunion-2019-dao">Comunion 2019 实践总结</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/322-2020-comunion-erguotou/2">2020年Comunion总结与思考-二锅头</a>
+          <a href="https://talk.comunion.org/d/340-comunion-2020">我的 Comunion 2020-钦佩</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/316-comunion2020/2">我的 Comunion2020-小东</a>
+          <a href="https://talk.comunion.org/d/322-2020-comunion-erguotou/2">2020年Comunion总结与思考-二锅头</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/318-2020-2021-uta">回顾2020，展望2021-年度总结-uta</a>
+          <a href="https://talk.comunion.org/d/316-comunion2020/2">我的 Comunion2020-小东</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/317-2020-comunion-zehui">2020年 Comunion 个人思考和总结-Zehui</a>
+          <a href="https://talk.comunion.org/d/318-2020-2021-uta">回顾2020，展望2021-年度总结-uta</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/315-2020-comunion-nigel">2020年 Comunion 个人思考和总结-Nigel</a>
+          <a href="https://talk.comunion.org/d/317-2020-comunion-zehui">2020年 Comunion 个人思考和总结-Zehui</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/314">个人、组织与未来：远程工作元年思考总结-前尘</a>
+          <a href="https://talk.comunion.org/d/315-2020-comunion-nigel">2020年 Comunion 个人思考和总结-Nigel</a>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/314">个人、组织与未来：远程工作元年思考总结-前尘</a>
         </p>
         <br />
         <p>
           <strong>相关教程：</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/272-metamask-token">
+          <a href="https://talk.comunion.org/d/272-metamask-token">
             Metamask 钱包安装、使用、丢失找回及添加 Token 全教程
           </a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/273-imtoken">imToken钱包安装、使用教程</a>
+          <a href="https://talk.comunion.org/d/273-imtoken">imToken钱包安装、使用教程</a>
         </p>
         <br />
 
@@ -185,10 +187,10 @@ export default defineComponent({
           <strong>账号注册</strong>
         </p>
         <p>
-          <a href="https://comunion.yuque.com/dashboard">语雀文档（文档共享）</a>
+          <a href="https://www.yuque.com/r/organizations/comunion/join?token=NxZHRwIbUrcPunOu">语雀文档（文档共享）</a>
         </p>
         <p>
-          <a href="https://taiga.comunion.io/">Taiga（任务/Bug管理）</a>
+          <a href="https://work.comunion.io/signup_user_complete/?id=69mfau3ax7no5cnez9hnptdw6o">Mattermost（任务/沟通管理）</a>
         </p>
         <p>
           <a href="https://yapi.comunion.io/">Yapi（API文档管理）</a>
@@ -204,15 +206,15 @@ export default defineComponent({
           <strong>相关教程：</strong>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/272-metamask-token">
+          <a href="https://talk.comunion.org/d/272-metamask-token">
             Metamask 钱包安装、使用、丢失找回及添加 Token 全教程
           </a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/273-imtoken">imToken钱包安装、使用教程</a>
+          <a href="https://talk.comunion.org/d/273-imtoken">imToken钱包安装、使用教程</a>
         </p>
         <p>
-          <a href="https://bbs.comunion.io/d/344-996-007-comunion">
+          <a href="https://talk.comunion.org/d/344-996-007-comunion">
             呼吁关注996/007，添加Comunion微信头像挂件，链接更多普通人
           </a>
         </p>
