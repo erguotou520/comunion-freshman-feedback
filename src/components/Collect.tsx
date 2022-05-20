@@ -23,7 +23,7 @@ export default defineComponent({
       nickname: '',
       mentor: '',
       yuque: '',
-      taiga: '',
+      mattermost: '',
       yapi: '',
       github: '',
       wallet: ''
@@ -53,7 +53,7 @@ export default defineComponent({
           <input type="text" required class="rounded mt-1 block w-full" v-model={form.nickname} />
         </label>
         <label class="mt-4 block">
-          <span class="text-gray-700">你的Mentor邮箱</span>
+          <span class="text-gray-700">你的 Mentor 邮箱</span>
           {/* <select required class="rounded mt-1 block w-full" v-model={form.mentor}>
             {mentors.map(name => (
               <option key={name[0]}>{name[0]}</option>
@@ -69,7 +69,7 @@ export default defineComponent({
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">
-            语雀账号（文档共享），
+            语雀账号（协作文档），
             <a target="_blank" href="https://www.yuque.com/">
               前往注册
             </a>
@@ -78,8 +78,8 @@ export default defineComponent({
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">
-            Taiga（任务/Bug管理）账号，
-            <a target="_blank" href="https://taiga.comunion.io/">
+            Mattermost（任务管理）账号，
+            <a target="_blank" href="https://work.comunion.io/">
               前往注册
             </a>
           </span>
@@ -111,9 +111,9 @@ export default defineComponent({
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">
-            以太坊钱包地址（用于管理虚拟币管理，建议使用
-            <a target="_blank" href="https://token.im/">
-              imToken
+            以太坊钱包地址（Token 发放，建议使用
+            <a target="_blank" href="https://metamask.io/">
+              MetaMask
             </a>
             管理）
           </span>
