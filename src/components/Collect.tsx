@@ -83,7 +83,7 @@ export default defineComponent({
               前往注册
             </a>
           </span>
-          <input type="text" required class="rounded mt-1 block w-full" v-model={form.taiga} />
+          <input type="text" required class="rounded mt-1 block w-full" v-model={form.mattermost} />
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">
