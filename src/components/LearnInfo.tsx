@@ -189,9 +189,9 @@ export default defineComponent({
         <p>
           <a href="https://www.yuque.com/r/organizations/comunion/join?token=NxZHRwIbUrcPunOu">语雀文档（文档共享）</a>
         </p>
-        <p>
-          <a href="https://work.comunion.io/signup_user_complete/?id=69mfau3ax7no5cnez9hnptdw6o">Mattermost（任务/沟通管理）</a>
-        </p>
+        {/* <p>
+          <a href="">Mattermost（任务/沟通管理）</a>
+        </p> */}
         <p>
           <a href="https://yapi.comunion.io/">Yapi（API文档管理）</a>
         </p>

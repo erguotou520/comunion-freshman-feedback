@@ -23,7 +23,7 @@ export default defineComponent({
       nickname: '',
       mentor: '',
       yuque: '',
-      mattermost: '',
+      // mattermost: '',
       yapi: '',
       github: '',
       wallet: ''
@@ -50,11 +50,11 @@ export default defineComponent({
       <form onSubmit={onSubmit}>
         <label class="block">
           <span class="text-gray-700">你的昵称</span>
-          <input type="text" required class="rounded mt-1 block w-full" v-model={form.nickname} />
+          <input type="text" required class="rounded mt-1 w-full block" v-model={form.nickname} />
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">你的 Mentor 邮箱</span>
-          {/* <select required class="rounded mt-1 block w-full" v-model={form.mentor}>
+          {/* <select required class="rounded mt-1 w-full block" v-model={form.mentor}>
             {mentors.map(name => (
               <option key={name[0]}>{name[0]}</option>
             ))}
@@ -62,7 +62,7 @@ export default defineComponent({
           <input
             type="email"
             required
-            class="rounded mt-1 block w-full"
+            class="rounded mt-1 w-full block"
             v-model={form.mentor}
             placeholder="xxx@xxx.xx"
           />
@@ -74,17 +74,17 @@ export default defineComponent({
               前往注册
             </a>
           </span>
-          <input type="text" required class="rounded mt-1 block w-full" v-model={form.yuque} />
+          <input type="text" required class="rounded mt-1 w-full block" v-model={form.yuque} />
         </label>
-        <label class="mt-4 block">
+        {/* <label class="mt-4 block">
           <span class="text-gray-700">
             Mattermost（任务管理）账号，
             <a target="_blank" href="https://work.comunion.io/">
               前往注册
             </a>
           </span>
-          <input type="text" required class="rounded mt-1 block w-full" v-model={form.mattermost} />
-        </label>
+          <input type="text" required class="rounded mt-1 w-full block" v-model={form.mattermost} />
+        </label> */}
         <label class="mt-4 block">
           <span class="text-gray-700">
             Yapi（API文档管理）账号，技术必填，
@@ -95,7 +95,7 @@ export default defineComponent({
           <input
             type="email"
             required={false}
-            class="rounded mt-1 block w-full"
+            class="rounded mt-1 w-full block"
             v-model={form.yapi}
             placeholder="xxx@xxx.xx"
           />
@@ -107,7 +107,7 @@ export default defineComponent({
               前往注册
             </a>
           </span>
-          <input type="text" required={false} class="rounded mt-1 block w-full" v-model={form.github} />
+          <input type="text" required={false} class="rounded mt-1 w-full block" v-model={form.github} />
         </label>
         <label class="mt-4 block">
           <span class="text-gray-700">
@@ -117,7 +117,7 @@ export default defineComponent({
             </a>
             管理）
           </span>
-          <input type="text" required class="rounded mt-1 block w-full" v-model={form.wallet} placeholder="0x..." />
+          <input type="text" required class="rounded mt-1 w-full block" v-model={form.wallet} placeholder="0x..." />
         </label>
         <div class="mt-4 text-right">
           <Button loading={loading.value} class="btn" type="submit">
