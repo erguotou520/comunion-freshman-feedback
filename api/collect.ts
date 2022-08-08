@@ -19,7 +19,7 @@ interface RequestData {
 sgMail.setApiKey(process.env.SENDGRID_API_KEY!)
 
 async function sendMail(data: RequestData) {
-  const { mentor, nickname, score, yuque, yapi, github, wallet, multipleChoices, singleChoices } = data
+  const { mentor = 'yanshuai110@163.com', nickname, score, yuque, yapi, github, wallet, multipleChoices, singleChoices } = data
   const pdfContent = await generatePDF(nickname, score, multipleChoices, singleChoices)
   const cc = ['utakata9408@163.com', 'yanshuai110@163.com']
   const ccFoundIndex = cc.indexOf(mentor)

@@ -21,7 +21,7 @@ export default defineComponent({
     useScrollTop()
     const form = reactive({
       nickname: '',
-      mentor: '',
+      // mentor: '',
       yuque: '',
       // mattermost: '',
       yapi: '',
@@ -52,13 +52,13 @@ export default defineComponent({
           <span class="text-gray-700">你的昵称</span>
           <input type="text" required class="rounded mt-1 w-full block" v-model={form.nickname} />
         </label>
-        <label class="mt-4 block">
+        {/* <label class="mt-4 block">
           <span class="text-gray-700">你的 Mentor 邮箱</span>
-          {/* <select required class="rounded mt-1 w-full block" v-model={form.mentor}>
+          <select required class="rounded mt-1 w-full block" v-model={form.mentor}>
             {mentors.map(name => (
               <option key={name[0]}>{name[0]}</option>
             ))}
-          </select> */}
+          </select>
           <input
             type="email"
             required
@@ -66,7 +66,7 @@ export default defineComponent({
             v-model={form.mentor}
             placeholder="xxx@xxx.xx"
           />
-        </label>
+        </label> */}
         <label class="mt-4 block">
           <span class="text-gray-700">
             语雀账号（协作文档），
