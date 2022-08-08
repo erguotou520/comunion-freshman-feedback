@@ -129,6 +129,13 @@ export default defineComponent({
           <a href="https://comunion.yuque.com/docs/share/288e7539-3892-4ed0-8092-caa474257ae6?#">Comunion Consensus 网链共识(2022）</a>
         </p>
         <p>
+          <a href="https://comunion.yuque.com/fxq3wg/kdv2vg/qf2w5s">Mattermost 协作手册</a>
+        </p>
+        <p>
+          <a href="https://comunion.yuque.com/fxq3wg/kdv2vg/fnhth5">Comunion 网链组织协作4.0</a>
+        </p>
+        <br />
+        <p>
           <strong>代码规范</strong>
         </p>
         <p>
@@ -137,6 +144,18 @@ export default defineComponent({
         <br />
         <p>
           <strong>实践总结</strong>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/575-comunion-2021-2022">Comunion 2021-2022:构建无许可的经济网络</a>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/535-what-is-comunion-2022">What is Comunion 2022?</a>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/558-comunion">2022开发者总结:浅谈入职Comunion两个多月的感受-vodak</a>
+        </p>
+        <p>
+          <a href="https://talk.comunion.org/d/552-comunion">2022开发者总结:作为第一批全职成员，谈一谈入职Comunion两个月的个人感受与总结-teamo</a>
         </p>
         <p>
           <a href="https://talk.comunion.org/d/465-comunion-2021-2022-26-comunion">Comunion 2021 回顾与展望】：2022 启动 26 号 Comunion 宇宙</a>
