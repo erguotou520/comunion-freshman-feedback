@@ -41,12 +41,12 @@ const questions: Questions = {
       choices: ['逆全球化', '更加公平的社会治理价值，降低社会矛盾', '数字经济驱动未来', '全面进入创新与创业时代']
     },
     {
-      title: '网链经济的特点有哪些？（4分）',
+      title: '网链协作公约包含那几个方面？（4分）',
       choices: [
-        '提升创业成功率，降低创业创新门槛',
-        '提升劳动力的流动性与资源利用率',
-        '降低创造性',
-        '更高效率的生成产业'
+        '严格的时间观念',
+        '详细的文档协作记录',
+        '一旦出发，使命必达',
+        '保证任务质量，个人自测'
       ]
     },
     {
@@ -205,12 +205,12 @@ const questions: Questions = {
       ]
     },
     {
-      title: 'Comunion 的 Token 价值单元是什么？（2分）',
-      choices: ['BTC', 'ETH', 'UVL', 'UVU']
+      title: '一下不属于 Comunion 协作工具的是什么？（2分）',
+      choices: ['语雀文档', 'Mattermost', '腾讯会议', 'Word']
     },
     {
-      title: 'Comunion 第一届执行委员会主席是谁？（2分）',
-      choices: ['kering', 'superest泽', '二锅头', '前尘']
+      title: 'Comunion 发起人是谁？（2分）',
+      choices: ['superest泽','kering',  '二锅头', '前尘']
     }
   ]
 }
