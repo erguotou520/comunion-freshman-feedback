@@ -205,7 +205,7 @@ const questions: Questions = {
       ]
     },
     {
-      title: '一下不属于 Comunion 协作工具的是什么？（2分）',
+      title: '以下不属于 Comunion 协作工具的是什么？（2分）',
       choices: ['语雀文档', 'Mattermost', '腾讯会议', 'Word']
     },
     {
