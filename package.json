@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "build": "vuedx-typecheck . && cp src/data/questions.ts api/questions.ts && vite build",
+    "build": "vuedx-typecheck . && vite build",
     "serve": "vite preview"
   },
   "dependencies": {
