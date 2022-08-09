@@ -2,7 +2,7 @@ import PDFDocument = require('pdfkit')
 import { join } from 'path'
 import { MultipleChoices, SingleChoices } from './types'
 import { multipleAnswers, singleAnswers } from './answers'
-import questions from './questions'
+import questions from '../src/data/questions'
 
 const gray = '#999'
 const headColor = '#000'
